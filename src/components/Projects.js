@@ -8,7 +8,7 @@ function Projects() {
         <div className="row">
             <div class="box">
                 <img src="https://www.vidyalayaschoolsoftware.com/webassets/images/vidyalaya_maldives/vidyalaya_maldives_1.svg" alt=" "/>
-                <h2 class="headings">Student Management App</h2>
+                <h2 className="headings">Student Management App</h2>
                 <p>  Developed a console-based application to manage student records with multi-subject support using Java and JDBC. 
         </p>
             </div>
