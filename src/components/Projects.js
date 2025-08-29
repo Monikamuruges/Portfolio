@@ -10,7 +10,7 @@ function Projects() {
                 <img src="https://www.vidyalayaschoolsoftware.com/webassets/images/vidyalaya_maldives/vidyalaya_maldives_1.svg" alt=" "/>
                 <h2 class="headings">Student Management App</h2>
                 <p>  Developed a console-based application to manage student records with multi-subject support using Java and JDBC. 
-        Integrated MySQL for persistent storage and implemented SQL views for grouped result display.</p>
+        </p>
             </div>
             <div className="box">
                 <img src="https://spaceliftio.wpcomstaging.com/wp-content/uploads/2023/05/202.devops-pipeline.png" alt=" "/>
