@@ -7,16 +7,15 @@ function Projects() {
         <h1 className="heading">Projects</h1>
         <div className="row">
             <div class="box">
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTposvw8bgXAUT3znhSKw8f6w3i7LqVO1MxnQ&s" alt=" "/>
-                <h2 class="headings">Voice Assistance</h2>
-                <p> It is a voice assistance devloped using python ,It can open up the application,
-                    Google and YouTube and also calculate any mathematical question etc by just giving the voice command.</p>
+                <img src="https://www.vidyalayaschoolsoftware.com/webassets/images/vidyalaya_maldives/vidyalaya_maldives_1.svg" alt=" "/>
+                <h2 class="headings">Student Management App</h2>
+                <p>  Developed a console-based application to manage student records with multi-subject support using Java and JDBC. 
+        Integrated MySQL for persistent storage and implemented SQL views for grouped result display.</p>
             </div>
             <div className="box">
-                <img src="https://www.bytewebster.com/javascriptprojects/uploads/images/animated-glassmorphism-calculator-using-html-css-and-javascript-image.jpg" alt=" "/>
-                <h1 className="headings">Javascript Calculator</h1>
-                <p> It is a simple calculator build using Javascript,It does straightforward tasks like addition, subtraction, 
-                    multiplication, and division</p>
+                <img src="https://spaceliftio.wpcomstaging.com/wp-content/uploads/2023/05/202.devops-pipeline.png" alt=" "/>
+                <h1 className="headings">Devops CI/CD Pipeline(Capstone)</h1>
+                <p> Built a CI/CD pipeline to automate version control, build, and deployment for e-commerce web application.</p>
         </div>
         <div className="box">
                 <img src="https://assets-160c6.kxcdn.com/wp-content/uploads/2022/08/2022-08-09-en-de.jpg" alt=" "/>
